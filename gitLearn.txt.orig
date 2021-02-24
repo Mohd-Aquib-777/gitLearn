@@ -1,0 +1,7 @@
+this is first statement
+<<<<<<< HEAD
+thi sis sads
+=======
+this is second statementghghg
+this is third statement
+>>>>>>> child-2
